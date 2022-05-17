@@ -1,0 +1,3 @@
+Ini adalah beberapa fitur mengenai aplikasi yang akan kami buat :
+1. Dapat membuat jurnal perkejaan harian secara terstruktur
+2. Dapat membuat reminder disaat aktifitas perkerjaan
